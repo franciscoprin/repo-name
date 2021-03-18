@@ -1,1 +1,4 @@
-# Main instructions for this template.
+# React app: repo-name
+
+# repo-name is so cool.
+# Repo description: react.
